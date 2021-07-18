@@ -41,6 +41,9 @@ The test script should check of at least 5 pages and 10 elements in total.
 
 # Tools used:
 Selenium
+
 Chrome Driver
+
 Language - Python
+
 PyCharm IDE
