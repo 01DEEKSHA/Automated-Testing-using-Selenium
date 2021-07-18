@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver import ActionChains
 
-driver = webdriver.Chrome(executable_path="C:\\Users\\Abc\\PROJECTS\\Automated Testing\\chromedriver.exe")
+driver = webdriver.Chrome(executable_path="C:\\Users\\Abc\\PROJECTS\\Automated Testing\\chromedriver.exe")  #add path of web-driver
 
 # ----------- Testcase : URL ----------- #
 print("Testcase 1 : \U00002714 ")
